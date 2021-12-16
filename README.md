@@ -1,4 +1,4 @@
-# alphabet
+# alphabet app with flutter
 
 A new Flutter project.
 
