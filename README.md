@@ -1,4 +1,8 @@
 # alphabet app with flutter
 
+this app also can play a song about alphabets.
+
 Simple Alphabet App Design In flutter
-![p_image](https://www.thecodebuzz.com/wp-content/uploads/2020/04/NET-Micrsoservices-300x298.jpg)
+![p_image](https://i.ibb.co/zbn1DYW/alphabet-2.png)
+
+![p_image](https://i.ibb.co/zbn1DYW/alphabet-1.png)
